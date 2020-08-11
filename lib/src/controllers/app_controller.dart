@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutterando_arquitetura/src/interfaces/local_storage_interface.dart';
-import 'package:flutterando_arquitetura/src/services/shared_local_storage.dart';
+import 'package:flutterando_arquitetura/src/interfaces/local_storage_service_interface.dart';
+import 'package:flutterando_arquitetura/src/services/shared_local_storage_service.dart';
 import 'package:flutterando_arquitetura/src/view_models/switch_theme_view_model.dart';
 
 class AppController {

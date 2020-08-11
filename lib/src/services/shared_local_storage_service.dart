@@ -1,4 +1,4 @@
-import 'package:flutterando_arquitetura/src/interfaces/local_storage_interface.dart';
+import 'package:flutterando_arquitetura/src/interfaces/local_storage_service_interface.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SharedLocalStorage implements ILocalStorage {
